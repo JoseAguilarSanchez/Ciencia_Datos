@@ -8,3 +8,5 @@
 [EXAMEN DIAGNOSTICO](https://github.com/JoseAguilarSanchez/Mineria_Datos/blob/main/Ex-Diagnostico_1851167.pdf)
 
 [Equipo_1-Ejercicio base de datos.](https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Equipo_1-Ejercicio%20base%20de%20datos.pdf)
+
+[Actividad_Python](https://github.com/JoseAguilarSanchez/Mineria_Datos/blob/main/Ej_Python_1851167.ipynb)

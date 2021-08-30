@@ -13,4 +13,4 @@
 
 [Practica de limpieza de datos](https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Ej_Limpieza_Equipo1.ipynb)
 
-[Avance1_PIA_Equipo1](https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Avance1_PIA_Equipo1.ipynb?fbclid=IwAR2Op30nCMGH1EzaVYC8xvEaXJfyeWZ6sm2vL1WMPV0AJKqlMZ4liLbwDIA)
+[Avance1_PIA_Equipo1](https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Avance1_PIA_Equipo1.ipynb?fbclid=IwAR34fLjG1tzYj5PZFoyPXM5yJ4vMGGsdbHIIee8qedGLdYxuAU3gD0IV9Ig)

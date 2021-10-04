@@ -23,5 +23,6 @@
 
 [Preguntas_Regresión-Lineal_Equipo1](https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Preguntas_Regresi%C3%B3n-Lineal_Equipo1.pdf?fbclid=IwAR3cf4jcnZUI6Du3R9QCEP93AzLmlXRpes1MMdmA5lhkzJdsf-x9_G_S05c)
 
+[Act](https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Visualizacion_Equipo1.ipynb)
 
 

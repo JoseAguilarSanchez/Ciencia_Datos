@@ -26,3 +26,5 @@
 [Visualizacion_Equipo1](https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Visualizacion_Equipo1.ipynb)
 
 [Avance2_PIA_Equipo1](https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Avance2_PIA_Equipo1.ipynb)
+
+[Práctica_Técnicas](https://github.com/IsabelRangel/Mineria_datos/blob/main/Pr%C3%A1ctica_T%C3%A9cnicas.ipynb)

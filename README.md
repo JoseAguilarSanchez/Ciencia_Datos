@@ -29,4 +29,7 @@
 
 [Práctica_Técnicas](https://github.com/IsabelRangel/Mineria_datos/blob/main/Pr%C3%A1ctica_T%C3%A9cnicas.ipynb)
 
+[HOLA](https://github.com/IsabelRangel/Mineria_datos/blob/main/Poster_Equipo1.pdf)
+
+
 [PIA_Equipo1](https://github.com/IsabelRangel/Mineria_datos/blob/main/PIA_Equipo1.ipynb)
